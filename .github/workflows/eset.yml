@@ -34,7 +34,6 @@ on:
         required: true
         type: choice
         options:
-          - --advanced key
           - --key
           - --small-business-key
         default: --key
